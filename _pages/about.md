@@ -34,20 +34,22 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - *2023.01*: &nbsp;🎉🎉 New Journal Paper on **Sw-YoloX: An anchor-free detector based transformer for sea surface object detection** Accepted by **Expert Systems With Applications** (中科院一区, Top, IF=8.6, 第一作者).
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+🎓 Low-level tasks
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation](https://doi.org/10.1016/j.inffus.2024.102870)
+**Jiangang Ding**, Yiquan Du, Wei Li, Lili Pei, Ningning Cui [**Project**](https://github.com/Ding-JianGang/LG-Diff)
+- Nearshore cross-modal translation is formulated as a denoising diffusion process.
+- We develop a two-stage pipeline guided by local class-regional information.
+- Decoupling high- and low-frequency information in the feature extraction.
+- A cross-modal benchmark for nearshore image translation task is proposed.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+🎓 High-level tasks
+
 
 # 🎖 Honors and Awards
 - *2024.10*: First-Class Scholarship for Ph.D. Students (Top 10%)
