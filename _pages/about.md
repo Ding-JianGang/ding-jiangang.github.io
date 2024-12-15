@@ -38,8 +38,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation](https://doi.org/10.1016/j.inffus.2024.102870)
-**Jiangang Ding**, Yiquan Du, Wei Li, Lili Pei, Ningning Cui [**Project**](https://github.com/Ding-JianGang/LG-Diff)
+[**Project**](https://github.com/Ding-JianGang/LG-Diff) [LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation](https://doi.org/10.1016/j.inffus.2024.102870) <br> **Jiangang Ding**, Yiquan Du, Wei Li, Lili Pei, Ningning Cui
 - Nearshore cross-modal translation is formulated as a denoising diffusion process.
 - We develop a two-stage pipeline guided by local class-regional information.
 - Decoupling high- and low-frequency information in the feature extraction.
