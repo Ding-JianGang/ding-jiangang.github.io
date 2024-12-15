@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a Ph.D. candidate at Chang'an University, conducting research on situational awareness in nearshore environments. My work focuses on multimodal fusion, multi-object tracking, and vision-language large models. Currently, I am deeply involved in AI Agent projects for specific scenarios as part of my doctoral research. If you're interested in my work, feel free to email me. I have published more than 10 papers at the top international journals and conferences with total <a href='https://scholar.google.com.hk/citations?user=GeQZSbUAAAAJ&hl=zh-CN&authuser=1'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=GeQZSbUAAAAJ&hl=zh-CN&authuser=1'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Ph.D. candidate at Chang'an University, conducting research on situational awareness in nearshore environments. My work focuses on multimodal fusion, multi-object tracking, and vision-language large models. Currently, I am deeply involved in AI Agent projects for specific scenarios as part of my doctoral research. If you're interested in my work, feel free to email me.
 
 
 # 🔥 News
