@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangang Ding"
-description              : "Chang'an University, Ph.D. Candidate, Xi'an, China "
+description              : "Ph.D. Candidate"
 repository               : "Ding-JianGang/ding-jiangang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Chang'an University"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email: djg@chd.edu.cn  : "djg@chd.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
