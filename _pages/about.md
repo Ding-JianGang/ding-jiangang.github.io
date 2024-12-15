@@ -46,9 +46,17 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 🎓 *High-level tasks*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/SeaTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking](https://doi.org/10.1016/j.patcog.2024.111091) <br> **Jiangang Ding**, Wei Li, Ming Yang, Yuanlin Zhao, Lili Pei, Aojia Tian <br> <strong> SCI Journal Paper</strong>
+- We implemented a fully motion information-based pipeline for the NMOT challenge.
+- Solve long-term occlusion problems through guiding modulation between objects.
+- Confidence, height and corner information are used to reconstruct the tracker.
+- Reduce tracking errors through long and short-term tracklets fusion.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.10*: First-Class Scholarship for Ph.D. Students (Top 10%)
