@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangang Ding /n (丁健刚)"
+  name             : "Jiangang Ding<br>(丁健刚)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Chang'an University"
   location         : "Xi'an, China"
