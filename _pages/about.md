@@ -23,8 +23,15 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 New Journal Paper on **Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient** Accepted by **IEEE Access 2023**.
+- *2024.12*: &nbsp;🎉🎉 New Journal Paper on **LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation** Accepted by **Information Fusion**.
+- *2024.10*: &nbsp;🎉🎉 New Journal Paper on **SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking** Accepted by **Pattern Recognition**.
+- *2024.10*: &nbsp;🎉🎉 New Journal Paper on **Learning to Follow Frequency View Guidance for Dental CT Images Deblurring** Accepted by **IEEE International Conference on Bioinformatics and Biomedicine 2024**.
+- *2024.10*: &nbsp;🎉🎉 New Journal Paper on **Crack instance segmentation using splittable transformer and position coordinates** Accepted by **Automation in Construction**.
+- *2024.09*: &nbsp;🎉🎉 New Journal Paper on **Nearshore optical video object detector based on temporal branch and spatial feature enhancement** Accepted by **Engineering Applications of Artificial Intelligence**.
+- *2024.03*: &nbsp;🎉🎉 New Journal Paper on **Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance** Accepted by **IEEE Transactions on Intelligent Transportation Systems**.
+- *2023.03*: &nbsp;🎉🎉 New Journal Paper on **A coarse aggregate gradation detection method based on 3D point cloud** Accepted by **Construction and Building Materials**.
+- *2023.02*: &nbsp;🎉🎉 New Journal Paper on **Foreign Bodies Detector Based on DETR for High-Resolution X-Ray Images of Textiles** Accepted by **IEEE Transactions on Instrumentation and Measurement**.
+- *2023.01*: &nbsp;🎉🎉 New Journal Paper on **Sw-YoloX: An anchor-free detector based transformer for sea surface object detection** Accepted by **Expert Systems With Applications**.
 
 # 📝 Publications 
 
