@@ -84,7 +84,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - *2023.06 - 2024.12*, National Key R&D Program, 参与, 核心人员
 
 # 💬 Part-time Academic Job
-Member of the China Society of Image and Graphics, Member of the Chinese Association for Artificial Intelligence, IEEE Student Member, [CSDN Blog Expert ](https://blog.csdn.net/qq_42308217?type=blog) (1 million views, 30,000 followers). Long-term reviewer for top journals and conferences in the field of Computer Science.
+Member of the China Society of Image and Graphics, Member of the Chinese Association for Artificial Intelligence, IEEE Student Member, [CSDN Blog Expert ](https://blog.csdn.net/qq_42308217?type=blog) (1 million views, **30,000** followers). Long-term reviewer for top journals and conferences in the field of Computer Science.
 
 # 📖 Educations
 - *September 2016 - June 2020*: Bachelor's in Measurement and Control Technology and Instruments, Chang'an University, Xi'an, China
