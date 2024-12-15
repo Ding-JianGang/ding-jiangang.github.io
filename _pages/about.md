@@ -58,6 +58,16 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/CrossModalityDetect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance](https://doi: 10.1109/TITS.2024.3373370) <br> **Jiangang Ding**, Wei Li, Lili Pei, Ming Yang, Aojia Tian, Bo Yuan <br> [**Project**](https://github.com/Ding-JianGang/Cross-Modality-MOT-in-Nearshore-Environments) <strong> | SCI Journal Paper</strong>
+- We propose a holistic cross-modality NMOT pipeline based on optical video surveillance and demonstrate its state-of-the-art performance in multiple benchmark evaluations.
+- We developed a simple yet effective CBT to decouple and guide the fusion of the RGB and thermal infrared video streams. Additionally, we introduce a Temporal Context Transformer to mitigate the various complex degradations caused by video signals by integrating feature information from the current and historical frames.
+- We heuristically model the motion interrelationships of objects to compensate for the Kalman Filter prior estimates, synchronously combining low-confidence modeling and MCM to assist with association and tracklet correction.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.10*: First-Class Scholarship for Ph.D. Students (Top 10%)
 - *2024.10*: National Scholarship for Ph.D. Students (**Top 1%**)
@@ -68,7 +78,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - *2021.05*: First Prize in the Provincial "Challenge Cup" Competition (Ranked 2nd)
 
 # 💻 Projects
-- *2024.01 - 2026.01*, Fundamental Research Funds for the Central Universities, **主持**
+- *2024.01 - 2026.01*, Fundamental Research Funds for the Central Universities (中央高校优博专项), **主持**
 - *2023.12 - 2023.12*, Scientific Innovation Practice Project of Postgraduates of Chang'an University, **主持**
 - *2020.09 - 2023.12*, National Natural Science Foundation, 参与, 核心人员
 - *2023.06 - 2024.12*, National Key R&D Program, 参与, 核心人员
