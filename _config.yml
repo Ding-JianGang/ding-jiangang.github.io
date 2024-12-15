@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangang Ding"
-description              : "Ph.D. Candidate"
+description              : "Ph.D. candidate at the School of Information Engineering. Focusing on multimodal, MOT, VLM, and AI Agents."
 repository               : "Ding-JianGang/ding-jiangang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangang Ding<br>(丁健刚)"
+  name             : "丁健刚"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Chang'an University"
   location         : "Xi'an, China"
