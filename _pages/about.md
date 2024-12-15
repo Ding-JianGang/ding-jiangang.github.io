@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a Ph.D. candidate at Chang'an University, conducting research on situational awareness in nearshore environments. My work focuses on multimodal fusion, multi-object tracking, and vision-language large models. Currently, I am deeply involved in AI Agent projects for specific scenarios as part of my doctoral research. If you're interested in my work, feel free to email me.
+I am a Ph.D. candidate at Chang'an University, conducting research on situational awareness in nearshore environments. My work focuses on multimodal fusion, multi-object tracking, and vision-language large models. Currently, I am deeply involved in AI Agent projects for specific scenarios as part of my doctoral research. In addition, I have conducted research on traditional computer vision (CV), edge computing, and C++ front-end development (QT) and have independently developed a complete set of front-end and back-end algorithms for industrial production (Digital Radiography imaging), which generated millions in value. If you're interested in my work, feel free to email me.
 
 
 # 🔥 News
@@ -68,5 +68,6 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 Member of the China Society of Image and Graphics, Member of the Chinese Association for Artificial Intelligence, IEEE Student Member, [CSDN Blog Expert ](https://blog.csdn.net/qq_42308217?type=blog) (1 million views, 30,000 followers). Long-term reviewer for top journals and conferences in the field of Computer Science.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *September 2016 - June 2020*: Bachelor's in Measurement and Control Technology and Instruments, Chang'an University, Xi'an, China
+- *September 2020 - June 2022*: Master's in Information and Communication Engineering, Chang'an University, Xi'an, China, Supervised by Professor Wei Li
+- *September 2022 - June 2026* (now): Ph.D. in Traffic Information and Engineering, Chang'an University, Xi'an, China, Supervised by Professor Wei Li
