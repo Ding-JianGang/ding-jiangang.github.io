@@ -35,7 +35,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 # 📝 Publications 
 🎓 Low-level tasks
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation](https://doi.org/10.1016/j.inffus.2024.102870)
