@@ -50,8 +50,13 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: First-Class Scholarship for Ph.D. Students (Top 10%)
+- *2024.10*: National Scholarship for Ph.D. Students (Top 1%)
+- *2023.10*: Excellent Ph.D. Student (Top 10%)
+- *2022.10*: First-Class Scholarship for Master's Students (Top 10%)
+- *2021.10*: Excellent Master's Student (Top 10%)
+- *2021.10*: First-Class Scholarship for Master's Students (Top 10%)
+- *2021.05*: First Prize in the Provincial "Challenge Cup" Competition (Ranked 2nd)
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
