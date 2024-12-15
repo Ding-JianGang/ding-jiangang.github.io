@@ -24,7 +24,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 New Journal Paper on **Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient** Accepted by **IEEE Access 2023**.
 
 # 📝 Publications 
 
