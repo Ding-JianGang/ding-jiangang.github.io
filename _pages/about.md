@@ -51,7 +51,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 # 🎖 Honors and Awards
 - *2024.10*: First-Class Scholarship for Ph.D. Students (Top 10%)
-- *2024.10*: National Scholarship for Ph.D. Students (Top 1%)
+- *2024.10*: National Scholarship for Ph.D. Students (Top **1**%)
 - *2023.10*: Excellent Ph.D. Student (Top 10%)
 - *2022.10*: First-Class Scholarship for Master's Students (Top 10%)
 - *2021.10*: Excellent Master's Student (Top 10%)
@@ -59,8 +59,8 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - *2021.05*: First Prize in the Provincial "Challenge Cup" Competition (Ranked 2nd)
 
 # 💻 Projects
-- *2024.01 - 2026.01*, Fundamental Research Funds for the Central Universities, 主持
-- *2023.12 - 2023.12*, Scientific Innovation Practice Project of Postgraduates of Chang'an University, 主持
+- *2024.01 - 2026.01*, Fundamental Research Funds for the Central Universities, **主持**
+- *2023.12 - 2023.12*, Scientific Innovation Practice Project of Postgraduates of Chang'an University, **主持**
 - *2020.09 - 2023.12*, National Natural Science Foundation, 核心参与者
 - *2023.06 - 2024.12*, National Key R&D Program, Core Member 核心参与者
 
