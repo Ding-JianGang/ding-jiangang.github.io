@@ -1,5 +1,21 @@
-<span class='anchor' id='about-me'></span>
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 # Welcome!
 
 I am a Ph.D. candidate at Chang'an University, conducting research on situational awareness in nearshore environments. My supervisor is Professor [**Li Wei**](https://js.chd.edu.cn/sjkxyrgzn/lw103/list.htm). My work focuses on multimodal fusion, multi-object tracking, and vision-language large models. Currently, I am deeply involved in AI Agent projects for specific scenarios as part of my doctoral research. In addition, I have conducted research on traditional computer vision (CV), edge computing, and C++ front-end development (QT) and have independently developed a complete set of front-end and back-end algorithms for industrial production (Digital Radiography imaging), which generated millions in value. If you're interested in my work, feel free to email me.
